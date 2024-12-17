@@ -10,7 +10,7 @@ class Footer extends Component {
         px={{ base: "20px", md: "30px", lg: "100px" }}
         pt={{ base: "50px", md: "100px", lg: "100px" }}
         pb="50px"
-        bgColor="#14120F"
+        bgColor="#"
       >
         <Box
           display={{ base: "column", md: "column", lg: "flex" }}
